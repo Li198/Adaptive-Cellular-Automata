@@ -1,1 +1,1 @@
-# Adaptive-Cellular-Autumata
+# Adaptive-Cellular-Automata
